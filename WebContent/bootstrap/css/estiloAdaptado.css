@@ -1,0 +1,344 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/05/2015, 00:18:39
+    Author     : Diego
+*/
+
+#form
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 44%;
+    top: 20%;
+    margin-left: -50px;              
+    /* margin-top: -88px; */
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#form #centraliza
+{
+    width: 100%;
+
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+}
+
+#formIndex
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 5%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formIndex #centralizaIndex
+{
+    width: 200px;
+
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#formOperador
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 42%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formOperador #centralizaOperador
+{
+    width: 250px;
+
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#formOperador #centralizaOperador input
+{
+    height: 30px;
+}
+
+#formEmpresa
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 42%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formEmpresa #centralizaEmpresa
+{
+    width: 250px;
+
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#formCliente
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 42%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formCliente #centralizaCliente
+{
+    width: 250px;
+
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#formCliente #centralizaCliente input
+{
+    height: 30px;
+}
+
+#formAeroporto
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 42%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formAeroporto #centralizaAeroporto
+{
+    width: 250px;
+
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#formItinerario
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 42%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formItinerario #centralizaItinerario
+{
+    width: 250px;
+
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#formItinerario #centralizaItinerario input
+{
+    height: 30px;
+}
+
+#formVoo
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 42%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formVoo #centralizaVoo
+{
+    width: 250px;
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#formPassagem
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 42%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formPassagem #centralizaPassagem
+{
+    width: 250px; 
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#formReserva
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 42%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formReserva #centralizaReserva
+{
+    width: 250px;
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#formVendaPassagem
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 42%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formVendaPassagem #centralizaVendaPassagem
+{
+    width: 250px;
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#formEstadosVoo
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 5%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    padding: 10px;
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+}
+
+#formEstadosVoo #centralizaEstadosVoo
+{
+    width: 140px;
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+#formEstadosPassagem
+{
+    float: left;
+    margin: 0 auto;
+    position: absolute;
+    left: 5%;
+    top: 18%;
+    margin-left: -50px;              
+    margin-top: -20px;
+    /* padding: 10px; */
+    border: 1px solid #CECECE;
+    border-radius: 5px;
+    width: 200px;
+}
+
+#formEstadosPassagem #centralizaEstadosPassagem
+{
+    width: 181px;
+    margin: 0 auto;
+    float: left;
+    position: relative;
+    padding: 10px;
+    /* margin-left: 20px; */
+    height: 35px;
+}
